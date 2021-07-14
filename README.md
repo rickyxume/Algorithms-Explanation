@@ -10,6 +10,7 @@ All Algorithms explained in simple language with examples and links to their imp
 
 - [Brazilian Portuguese](./pt-br)
 - [English](./en)
+- [Chinese](./zh)
 - [Spanish](./es)
 - [Nepali](./ne)
 - [Hebrew](./he)
